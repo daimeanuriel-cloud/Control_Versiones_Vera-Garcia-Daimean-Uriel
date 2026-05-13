@@ -5,3 +5,15 @@ Data Warehouse: Los datos almacenados se utilizan generalmente para el análisis
 Lago de datos o data lake: En este repositorio, los datos pueden tener cualquier forma, ya sea estructurada, semiestructurada o no estructurada.
 Data Mart: Se puede considerar como el subconjunto del almacén de datos y se centra en un tema particular, departamento o cualquier otra área específica.
 Cubo de datos o Data Cube: Este repositorio contiene los datos más complejos. Se puede describir como las extensiones multidimensionales de diferentes tablas, generalmente se utilizan para representar datos que son demasiado complejos para ser descritos por las filas y columnas de las tablas
+Ventajas Principales
+Centralización y orden: Todos los documentos están en un solo lugar, facilitando su recuperación y evitando la dispersión de archivos.
+Acceso abierto y visibilidad: Facilitan el acceso al conocimiento científico y aumentan el impacto de las investigaciones al hacerlas visibles.
+Preservación a largo plazo: Aseguran que la información se mantenga disponible a través del tiempo.
+Colaboración eficiente: Permiten trabajar en equipo (especialmente en repositorios de código como Git), facilitando la fusión de cambios y el control de versiones.
+Búsqueda rápida: Ofrecen motores de búsqueda dentro de la base de datos para localizar documentos rápidamente.
+Desventajas y Limitaciones
+Dependencia de la conectividad: Requieren acceso constante a internet para su gestión y consulta.
+Barrera del idioma: La mayoría de los repositorios y su material están en inglés.
+Gestión y sostenibilidad: Requieren mantenimiento técnico constante y gestión de metadatos para ser efectivos.
+Riesgo de derechos de autor: Existe el riesgo de que el material sea copiado sin la referencia adecuada.
+vCurva de aprendizaje: Pueden tener una curva de aprendizaje pronunciada, especialmente para repositorios de código técnico.
