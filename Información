@@ -17,3 +17,20 @@ Barrera del idioma: La mayoría de los repositorios y su material están en ingl
 Gestión y sostenibilidad: Requieren mantenimiento técnico constante y gestión de metadatos para ser efectivos.
 Riesgo de derechos de autor: Existe el riesgo de que el material sea copiado sin la referencia adecuada.
 vCurva de aprendizaje: Pueden tener una curva de aprendizaje pronunciada, especialmente para repositorios de código técnico.
+Un repositorio digital es un sistema de gestión centralizado diseñado para recopilar, organizar, preservar y difundir la producción científica, académica o documental de una organización.
+Su función principal es actuar como un archivo seguro y accesible que garantiza la permanencia de los contenidos digitales a lo largo del tiempo.
+En el entorno actual de la gestión del conocimiento, estos sistemas se caracterizan por su capacidad de almacenar una amplia variedad de formatos de archivo.
+Para que la información sea localizable, los repositorios implementan sistemas avanzados de metadatos, los cuales son etiquetas estandarizadas que describen exhaustivamente
+cada documento. Esto facilita la indexación y permite realizar búsquedas precisas dentro de la plataforma.Otra propiedad fundamental es la interoperabilidad. Los repositorios
+utilizan protocolos de comunicación estándar que les permiten conectarse, compartir datos y ser indexados por buscadores externos o recolectores globales de información científica.
+Asimismo, la gran mayoría de estas plataformas se rigen bajo el principio de Acceso Abierto (Open Access), lo que significa que los contenidos están disponibles de forma gratuita para el público general,
+promoviendo la democratización del saber.Existen principalmente dos variantes de estos sistemas: los repositorios institucionales, que agrupan la producción de una universidad o centro de investigación
+específico, y los repositorios temáticos, que centralizan documentos en torno a una disciplina científica o técnica concreta de manera global. Para asegurar el correcto funcionamiento de ambos tipos,
+los sistemas incorporan estrictas medidas de seguridad y control de acceso, gestionando permisos específicos para los usuarios que cargan la información y garantizando la integridad de los archivos almacenados.
+En su dimensión técnica, este sistema destaca por la implementación de metadatos estandarizados, como el esquema Dublin Core, que describen minuciosamente cada recurso para optimizar su indexación. Asimismo,
+la plataforma se caracteriza por su interoperabilidad, utilizando protocolos de comunicación global como OAI-PMH para intercambiar datos con cosechadores y buscadores internacionales. Para evitar la pérdida
+de enlaces o referencias con el paso de los años, el sistema asigna identificadores persistentes —tales como códigos DOI o Handle—, asegurando que la ruta de acceso al documento se mantenga invariable
+independientemente de los cambios en los servidores.En el ámbito operativo, los repositorios se rigen bajo el principio de Acceso Abierto (Open Access), permitiendo la consulta y descarga gratuita de sus
+contenidos para democratizar el conocimiento. El ingreso de nueva información está regulado por un flujo de trabajo estructurado, donde un equipo de curadores valida la calidad de los metadatos y la legitimidad
+de los derechos de autor antes de la publicación definitiva. Finalmente, la seguridad del entorno está garantizada mediante un estricto control de permisos y perfiles de usuario, permitiendo delimitar con
+precisión quiénes tienen facultades para depositar, editar, administrar o simplemente consultar la información almacenada.
