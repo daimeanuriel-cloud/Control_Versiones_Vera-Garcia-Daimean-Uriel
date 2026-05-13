@@ -1,1 +1,7 @@
 Un repositorio de datos es una infraestructura centralizada (bases de datos, servidores o archivos digitales) diseñada para almacenar, organizar, gestionar y preservar conjuntos de datos, documentos o código fuente
+Los datos pueden recogerse y almacenarse de diferentes maneras, como los datos agregados, que suelen recogerse de múltiples fuentes o segmentos de una empresa, y luego pueden almacenarse de forma estructurada o no estructurada.
+Los repositorios de datos se clasifican generalmente en cuatro tipos:
+Data Warehouse: Los datos almacenados se utilizan generalmente para el análisis y la presentación de informes que ayudarán a los usuarios/equipos a tomar la decisión correcta en su negocio o proyecto. 
+Lago de datos o data lake: En este repositorio, los datos pueden tener cualquier forma, ya sea estructurada, semiestructurada o no estructurada.
+Data Mart: Se puede considerar como el subconjunto del almacén de datos y se centra en un tema particular, departamento o cualquier otra área específica.
+Cubo de datos o Data Cube: Este repositorio contiene los datos más complejos. Se puede describir como las extensiones multidimensionales de diferentes tablas, generalmente se utilizan para representar datos que son demasiado complejos para ser descritos por las filas y columnas de las tablas
