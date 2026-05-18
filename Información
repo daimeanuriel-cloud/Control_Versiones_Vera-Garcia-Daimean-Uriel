@@ -34,3 +34,5 @@ independientemente de los cambios en los servidores.En el ámbito operativo, los
 contenidos para democratizar el conocimiento. El ingreso de nueva información está regulado por un flujo de trabajo estructurado, donde un equipo de curadores valida la calidad de los metadatos y la legitimidad
 de los derechos de autor antes de la publicación definitiva. Finalmente, la seguridad del entorno está garantizada mediante un estricto control de permisos y perfiles de usuario, permitiendo delimitar con
 precisión quiénes tienen facultades para depositar, editar, administrar o simplemente consultar la información almacenada.
+
+La rama principal no sufrió cambios debido a que cada rama funciona como una copia independiente del proyecto permaneciendo aisladas hasta que se mezclen o fusionen con la rama principal mediante un merge o pull request
